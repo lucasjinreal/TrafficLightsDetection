@@ -24,7 +24,7 @@ In the sh file, we have a data_dir viraible, **please make sure data_dir + train
 **After this step, you are going have trainval.lmdb and test.lmdb** under `~/data/YOURDATASET/lmdb`
 
 ### Predict Using SSD
-ok, before train SSD, you can test this, you can download 2 model, `[VGG16.v2.caffemodel](http://pan.baidu.com/s/1geVTWen)` and `[VGG_LISA_SSD_414x125_iter_120000.caffemodel](http://pan.baidu.com/s/1boPq4I7)` , the first one is SSD pretrain model, you gonna need it when you train SSD, and second is I trained model using for traffic light detection.
+ok, before train SSD, you can test this, you can download 2 model, [VGG16.v2.caffemodel](http://pan.baidu.com/s/1geVTWen) and [VGG_LISA_SSD_414x125_iter_120000.caffemodel](http://pan.baidu.com/s/1boPq4I7)`, the first one is SSD pretrain model, you gonna need it when you train SSD, and second is I trained model using for traffic light detection.
 **Place first model into ./models/VGGNet/LISA/SSD_414x125**
 **Place second model into ./models/VGGNet**
 And then type:
