@@ -1,0 +1,41 @@
+item {
+	name: "go"
+	label: 0
+	display_name: "Go"
+}
+item {
+	name: "goForward"
+	label: 1
+	display_name: "GoForward"
+}
+item {
+	name: "goLeft"
+	label: 2
+	display_name: "GoLeft"
+}
+item {
+	name: "stop"
+	label: 3
+	display_name: "Stop"
+}
+item {
+	name: "stopLeft"
+	label: 4
+	display_name: "StopLeft"
+}
+item {
+	name: "warning"
+	label: 5
+	display_name: "Warning"
+}
+item {
+	name: "warningLeft"
+	label: 6
+	display_name: "WarningLeft"
+}
+item {
+	name: "none_of_above"
+	label: 7
+	display_name: "background"
+}
+

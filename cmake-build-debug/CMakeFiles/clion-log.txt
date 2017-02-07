@@ -1,0 +1,5 @@
+/opt/clion-2016.3.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /media/work/jfg/SSD/lisa
+-- Boost version: 1.58.0
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /media/work/jfg/SSD/lisa/cmake-build-debug
