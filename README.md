@@ -1,6 +1,21 @@
 ### SSD Traffic Lights Detection
 
+
+
+*update*:
+
+
+
+Now we have a more advanced implementation for traffic light detection, the source codes can be found at **strangeai.pro**: http://strangeai.pro/aicodes_detail.html?id=26
+
+
+
+it's more accurate, more faster, and more robustic in traffic light detection, also need fewer memory usage.
+
+
+
 ### Prepare Data
+
 This step is the same as my previous repo kitti_ssd, train kitti dataset on ssd, this repo using dataset is LISA, a traffic light detection dataset. As the same of previous, we get `Images` and `Label` folder which contains all images and labels, one image reflect on **same named** label file, in `./data` folder we have a script `gen_all_labels.sh` to generate same named label files contains nothing, just in case some images has no label bound box, this may cause unable to train SSD.
 
 ### Generate lmdb data
