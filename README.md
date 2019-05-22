@@ -6,7 +6,7 @@
 
 
 
-Now we have a more advanced implementation for traffic light detection, the source codes can be found at **strangeai.pro**: http://strangeai.pro/aicodes_detail.html?id=26
+Now we have a more advanced implementation for traffic light detection, the source codes can be found at **strangeai.pro**: [link](http://manaai.cn/aicodes_detail3.html?id=26)
 
 
 
